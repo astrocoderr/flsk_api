@@ -1,6 +1,6 @@
 # mock backend service for NutritionPro
 
-### Installation (without docker)
+### Launch (without docker)
 *node v7.6.0 or higher*
 ___
 ***Install dependencies***
@@ -25,7 +25,7 @@ yarn start
 ```
 ___
 
-### Installation (with docker)
+### Launch (with docker)
 
 *Make sure docker and make package are installed on your machine*
 ***Build docker image***
