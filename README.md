@@ -1,6 +1,6 @@
 # mock backend service for NutritionPro
 
-#### Installation
+### Installation
 *node v7.6.0 or higher*
 ___
 ***Install dependencies***
