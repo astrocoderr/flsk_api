@@ -1,20 +1,20 @@
 # mock backend service for NutritionPro
 
 #### Installation
-*node v7.6.0 or higher
+*node v7.6.0 or higher*
 ___
-*** Install dependencies ***
+***Install dependencies***
 ```
 yarn install
 ```
 
-*** On root directory 'api' create .env file ***
+***On root directory 'api' create .env file***
 ```
 nano .env
 
 ```
 
-*** Pass MONGO_URI inside .env file ***
+***Pass MONGO_URI inside .env file***
 ```
 MONGO_URI=mongodb://localhost:27017/fullstack_mock
 ```
