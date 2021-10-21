@@ -8,13 +8,13 @@ ___
 yarn install
 ```
 
-***On root (api) directory create .env file***
+***On root (api) directory create a .env file***
 ```
 nano .env
 
 ```
 
-***Pass MONGO_URI inside .env file***
+***Pass MONGO_URI inside the .env file***
 ```
 MONGO_URI=mongodb://localhost:27017/fullstack_mock
 ```
