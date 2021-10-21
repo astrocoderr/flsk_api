@@ -19,13 +19,21 @@ nano .env
 MONGO_URI=mongodb://localhost:27017/fullstack_mock
 ```
 
+___
 
+*Make sure docker and make package are installed on your machine*
+***Build docker image***
+```
+docker build -t fullstack_mock:0.0.1 .
+```
+***Run a container with created image. Notice, in Makefile already was write run comand for docker container***
+```
+make run
+```
 
-
+___
 
 #### Used TDD (Test-driven Development) with EDA (Event-driven Architecture)
-*for more information about stack, used libraries please look up on package*
+*for more information about stack, used libraries please look up on package.json*
 
-
-- 
 
