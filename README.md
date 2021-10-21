@@ -1,6 +1,6 @@
 # mock backend service for NutritionPro
 
-### Installation
+### Installation (without docker)
 *node v7.6.0 or higher*
 ___
 ***Install dependencies***
@@ -19,7 +19,13 @@ nano .env
 MONGO_URI=mongodb://localhost:27017/fullstack_mock
 ```
 
+***Start the service***
+```
+yarn start
+```
 ___
+
+### Installation (with docker)
 
 *Make sure docker and make package are installed on your machine*
 ***Build docker image***
