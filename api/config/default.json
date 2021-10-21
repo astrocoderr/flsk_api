@@ -1,0 +1,17 @@
+{
+	"port": 8081,
+
+	"db": {
+		"host": "127.0.0.1",
+		"user": "admin",
+		"pass": "admin",
+		"port": 27017,
+		"name": "fullstack_mock",
+		"dialect": "mongodb"
+	},
+	"jwt": {
+	  	"secret": "vds290df4357ty82asdwedtjkljkhgnh434tgvxcwe"
+	},
+	"errors_file_path": "/error_messages.json"
+  }
+  
