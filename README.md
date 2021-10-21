@@ -8,7 +8,7 @@ ___
 yarn install
 ```
 
-***On root directory 'api' create .env file***
+***On root (api) directory create .env file***
 ```
 nano .env
 
