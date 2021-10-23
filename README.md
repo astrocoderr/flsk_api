@@ -28,6 +28,7 @@ ___
 ### Installation (with docker)
 
 *Make sure docker and make package are installed on your machine*
+
 ***Build docker image***
 ```
 docker build -t fullstack_mock:0.0.1 .
