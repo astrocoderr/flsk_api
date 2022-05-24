@@ -1,4 +1,4 @@
-# (mock) backend service for NutritionPro
+# (mock) backend service
 
 ### Installation (without docker)
 *node v7.6.0 or higher*
